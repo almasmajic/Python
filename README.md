@@ -1,2 +1,2 @@
 # Python
-self-taught stuff from tutorials
+Self-taught stuff from tutorials (Python > Numpy > Pytorch)
